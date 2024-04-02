@@ -12,8 +12,6 @@
 .yarn
 *.log
 *.tgz
-build
-dist
 firebase
 logs
 node_modules
